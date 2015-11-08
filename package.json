@@ -1,0 +1,25 @@
+{
+  "name": "forstebud.no",
+  "version": "0.0.0",
+  "description": "forstebud.no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev"
+  },
+  "author": "Ken Grønnbeck",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.0.15",
+    "babel-core": "^6.1.2",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
