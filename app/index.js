@@ -10,6 +10,17 @@ class Forstebud extends React.Component {
           Aldri stol på Nico.
         </blockquote>
       </header>
+
+      <article className="letusdown">
+        <h2 className="letusdown-heading">Nico holdt ikke ord</h2>
+        <ul>
+          <li>
+            <date className="letusdown-date">September 2015</date>
+            Nico møtte ikke opp på morgenkaffe fordi han valgte å ikke ha på
+            vekkeklokke. Forever alone på Kaffebrenneriet kl 07.00.
+          </li>
+        </ul>
+      </article>
     </div>
   }
 }
