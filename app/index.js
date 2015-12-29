@@ -15,6 +15,11 @@ class Forstebud extends React.Component {
         <h2 className="letusdown-heading">Nico holdt ikke ord</h2>
         <ul>
           <li>
+            <date className="letusdown-date">Desember 2015</date>
+            Nico overførte ikke for sin andel av hotellet i Japan som avtalt.
+            Alle andre (8 stk) klarte det, men ikke Nico.
+          </li>
+          <li>
             <date className="letusdown-date">September 2015</date>
             Nico møtte ikke opp på morgenkaffe fordi han valgte å ikke ha på
             vekkeklokke. Forever alone på Kaffebrenneriet kl 07.00.
