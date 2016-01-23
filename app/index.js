@@ -24,6 +24,10 @@ class Forstebud extends React.Component {
             Nico møtte ikke opp på morgenkaffe fordi han valgte å ikke ha på
             vekkeklokke. Forever alone på Kaffebrenneriet kl 07.00.
           </li>
+          <li>
+            <date className="letusdown-date">Januar 2016</date>
+            Nico lovte å komme på LAN kl 11. Dukket ikke opp. 
+          </li>
         </ul>
       </article>
     </div>
